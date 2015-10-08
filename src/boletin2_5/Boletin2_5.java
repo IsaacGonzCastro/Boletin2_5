@@ -4,7 +4,7 @@ package boletin2_5;
 import java.util.Scanner;
 
 public class Boletin2_5 {
-    static final int  VALOR = 1582 ;
+    static final int  VALOR = 1852 ;
    
     public static void main(String[] args) {
     //entrada por teclado
